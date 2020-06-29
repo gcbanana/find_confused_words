@@ -1,0 +1,24 @@
+confused:
+  b: A
+  p: A
+  m: B
+  f: C
+  d: A
+  t: A
+  n: B
+  l: B
+  g: A
+  k: A
+  h: C
+  j: D
+  q: D
+  x: C
+  zh: D
+  ch: D
+  sh: C
+  r: B
+  z: D
+  c: D
+  s: C
+  _: _  # 无声母占位符
+  ^: ^  # 通配符
